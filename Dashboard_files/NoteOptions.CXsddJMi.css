@@ -1,0 +1,68 @@
+.ssbc-button__link.svelte-u8bjui, .ssbc-button__icon.svelte-u8bjui {
+  display: inline-block;
+}
+
+.ssbc-button__link.svelte-u8bjui {
+  text-decoration: none;
+  color: #fff;
+}
+
+.ssbc-button.svelte-u8bjui {
+  transition: 25ms ease-out;
+  padding: 0.75em;
+}
+
+.ssbc-button__icon.svelte-u8bjui svg {
+  width: 1em;
+  height: 1em;
+  margin: 0;
+  vertical-align: middle;
+}
+
+.ssbc-button__icon--fill.svelte-u8bjui {
+  fill: #fff;
+  stroke: none;
+}
+
+.ssbc-button__icon--outline.svelte-u8bjui {
+  fill: none;
+  stroke: #fff;
+}.ssbc-button--email {
+  background-color: #777777;
+}
+
+.ssbc-button--email:active, .ssbc-button--email:hover {
+  background-color: #5e5e5e;
+}.ssbc-button--facebook {
+  background-color: #3b5998;
+}
+
+.ssbc-button--facebook:active, .ssbc-button--facebook:hover {
+  background-color: #2d4373;
+}.ssbc-button--linkedin {
+  background-color: #0077b5;
+}
+
+.ssbc-button--linkedin:active, .ssbc-button--linkedin:hover {
+  background-color: #046293;
+}.ssbc-button--telegram {
+  background-color: #54A9EB;
+}
+
+.ssbc-button--telegram:active, .ssbc-button--telegram:hover {
+  background-color: #4B97D1;
+}.ssbc-button--x {
+  background-color: #14171a;
+}
+
+.ssbc-button--x:active, .ssbc-button--x:hover {
+  background-color: #000000;
+}.ssbc-button--whatsapp {
+  background-color: #25D366;
+}
+
+.ssbc-button--whatsapp:active, .ssbc-button--whatsapp:hover {
+  background-color: #1DA851;
+}.ssbc-button {
+  display: flex;
+}

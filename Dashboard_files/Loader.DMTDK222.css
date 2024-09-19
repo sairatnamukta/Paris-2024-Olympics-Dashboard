@@ -1,0 +1,17 @@
+.luna-loader.svelte-17kihov {
+  border-top-color: #fcd34d;
+  animation: svelte-17kihov-spinner 0.8s linear infinite;
+}
+
+.luna-loader.luna-loader-dark.svelte-17kihov {
+  border-top-color: #f59e0b;
+}
+
+@keyframes svelte-17kihov-spinner {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
